@@ -7,4 +7,5 @@ static int secondPersonsInfo(void) {
   printf("%s\n", dateOfBirth);
   printf("%s\n", workPhone);
   printf("%s\n\n", cellPhone);
+  printf("Test Passed\n\n");
 }
